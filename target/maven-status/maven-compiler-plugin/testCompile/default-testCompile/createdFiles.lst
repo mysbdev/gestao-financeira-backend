@@ -1,0 +1,8 @@
+br\edu\ifs\finanse\service\MetaServiceTest.class
+br\edu\ifs\finanse\entity\UsuarioTest.class
+br\edu\ifs\finanse\service\CategorizacaoServiceTest.class
+br\edu\ifs\finanse\service\ConteudoEducativoServiceTest$FluxoAlternativo.class
+br\edu\ifs\finanse\entity\MetaTest.class
+br\edu\ifs\finanse\service\ConteudoEducativoServiceTest$MetaEmAndamento.class
+br\edu\ifs\finanse\service\ConteudoEducativoServiceTest$UsoAltoRotativo.class
+br\edu\ifs\finanse\service\ConteudoEducativoServiceTest.class
